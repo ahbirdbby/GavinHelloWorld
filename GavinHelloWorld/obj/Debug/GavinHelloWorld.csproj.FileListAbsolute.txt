@@ -127,8 +127,8 @@ C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\System.Web.R
 C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\System.Web.WebPages.xml
 C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\System.Web.WebPages.Deployment.xml
 C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\System.Web.WebPages.Razor.xml
-C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\WebMatrix.Data.xml
 C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\WebMatrix.Data.xml
 C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\WebMatrix.WebData.xml
 C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\glin1\Documents\GitHub\GavinHelloWorld\GavinHelloWorld\bin\DotNetOpenAuth.Core.xml
